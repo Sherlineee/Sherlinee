@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Nama Kamu]
+# 👋 Hi, I'm Sherline
 
 🎓 Saya seorang mahasiswa / developer yang tertarik di bidang teknologi, khususnya dalam pengembangan aplikasi dan data.
 
