@@ -4,6 +4,13 @@
 
 ---
 
+## About
+
+Information Systems Student at Universitas Internasional Batam (UIB) | Learning App Development 🚀
+
+
+---
+
 ## 🚀 Skills & Tech Stack
 - 💻 Programming: PHP, Python, JavaScript
 - 🌐 Web: HTML, CSS, Bootstrap, CodeIgniter
@@ -13,9 +20,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sherlineee&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlineee&layout=compact&theme=tokyonight)
 
 ---
 
